@@ -1,5 +1,3 @@
-<h1 align="center">MELİSA ABLA BENİ TAKİP ETMEYİ UNUTMA!!!!</h1>
-
 ![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
 <h1 align="center">Hi 👋, I'm Ahmet Serdar</h1>
 <h3 align="center">I am a student of 42 Schools. I'm always in love with learning new things</h3>
