@@ -14,10 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetserdartncy&show_icons=true&locale=en&layout=compact" alt="ahmetserdartncy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetserdartncy&show_icons=true&locale=en" alt="ahmetserdartncy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetserdartncy&" alt="ahmetserdartncy" /></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetSerdarTncy/AhmetSerdarTncy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetSerdarTncy/AhmetSerdarTncy/output/github-contribution-grid-snake.svg">
